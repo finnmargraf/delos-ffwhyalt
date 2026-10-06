@@ -1,6 +1,6 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
-<template xmlns = "http://www.w3.org" version = "1.0 beta" name = "Custom ILIAS Skin">
-	<style 	name = "Custom Delos Style"
+<template xmlns = "http://www.w3.org" version = "1.0" name = "FFw Hoyerswerda-Altstadt">
+	<style 	name = "FFw Hoyerswerda-Altstadt"
 			id = "delos"
 			image_directory = "../images"/>
 </template>
